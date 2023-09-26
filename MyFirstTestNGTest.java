@@ -14,9 +14,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.AfterClass;
 
 public class MyFirstTestNGTest {
-	
-	
-	//Method which are having @Test anntation is your test case
+
 	WebDriver driver;
   @Test
   public void loginTonicheTyselfclass() {
